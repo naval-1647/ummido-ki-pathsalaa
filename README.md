@@ -46,7 +46,5 @@ To run the **Ummido-Ki-Pathsala** project locally, follow these steps:
 10. To access Admin portal type the address in ur browser.
       <pre>http://localhost:8000/admin</pre> 
 
-    <hr>
-    Need Any Project Please contact at 8604470501 
 
 
